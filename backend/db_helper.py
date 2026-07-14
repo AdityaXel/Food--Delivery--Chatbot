@@ -7,7 +7,7 @@ cnx = mysql.connector.connect(
     host="tokaido.proxy.rlwy.net",
     user="root",
     password="XnFtuJjzpbWGXoNwTgHUNOmPLsDxuMNK",
-    database="pandeyji_eatery"
+    database="pandeyji_eatery",
     port = "44567"
     
 )
