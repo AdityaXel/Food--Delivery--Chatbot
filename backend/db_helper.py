@@ -4,9 +4,9 @@ import mysql.connector
 global cnx
 
 cnx = mysql.connector.connect(
-    host="localhost",
+    host="tokaido.proxy.rlwy.net",
     user="root",
-    password="root",
+    password="XnFtuJjzpbWGXoNwTgHUNOmPLsDxuMNK",
     database="pandeyji_eatery"
 )
 
