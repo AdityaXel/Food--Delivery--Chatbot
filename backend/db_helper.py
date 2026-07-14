@@ -8,6 +8,8 @@ cnx = mysql.connector.connect(
     user="root",
     password="XnFtuJjzpbWGXoNwTgHUNOmPLsDxuMNK",
     database="pandeyji_eatery"
+    port = "44567"
+    
 )
 
 # Function to call the MySQL stored procedure and insert an order item
