@@ -8,7 +8,7 @@ cnx = mysql.connector.connect(
     user="root",
     password="XnFtuJjzpbWGXoNwTgHUNOmPLsDxuMNK",
     database="pandeyji_eatery",
-    port = "44567"
+    port = "3306"
     
 )
 
